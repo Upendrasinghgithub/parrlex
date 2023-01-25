@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.parrallax-1 {
+    width: 100%;
+    height: 600px;
+    background-image: url(./img/image1.jpg);
+    background-size: 100%, 100%;
+    background-attachment: fixed;
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.ptext .border {
+    background-color: lightgrey;
+    font-size: 2rem;
+}
+
+section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+section h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+
+.parrallax-2 {
+    width: 100%;
+    height: 600px;
+    background-image: url(./img/image2.jpg);
+    background-size: 100%, 100%;
+    background-attachment: fixed;
+
+}
+
+.ptext-2 .border-2{
+    position: absolute;
+    padding-top: 200px;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.section-2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-2 h2{
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+
+
+
+.parrallax-3 {
+    width: 100%;
+    height: 600px;
+    background-image: url(./img/image3.jpg);
+    background-size: 100%, 100%;
+    background-attachment: fixed;
+}
+
+
+.ptext-3 .border-3{
+    position: absolute;
+    padding-top: 200px;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.section-3{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-3 h2{
+    letter-spacing: 3px;
+}
+
+.section-3 h2{
+    text-align: center;
+    font-size: 2rem;
+}
